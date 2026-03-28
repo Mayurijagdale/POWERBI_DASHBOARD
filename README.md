@@ -1,0 +1,1 @@
+This project analyzes and visualizes water quality data using Power BI to generate insights for environmental monitoring. It includes data collection, cleaning, and transformation of parameters like pH, turbidity, and dissolved oxygen. Interactive dashboards track trends, compare locations, and support better water resource management decisions.
